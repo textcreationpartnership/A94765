@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaration of the Comte de Tourville Commandant His Most Christian M[ajes]ties fleet. Translated from the French original.</title>
+            <author>Tourville, Anne-Hilarion de Cotentin, comte de, 1642-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94765</idno>
+            <idno type="STC">Wing T1957A</idno>
+            <idno type="STC">ESTC R185405</idno>
+            <idno type="EEBO-CITATION">43077697</idno>
+            <idno type="OCLC">ocm 43077697</idno>
+            <idno type="VID">151808</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151808)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2277:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaration of the Comte de Tourville Commandant His Most Christian M[ajes]ties fleet. Translated from the French original.</title>
+                  <author>Tourville, Anne-Hilarion de Cotentin, comte de, 1642-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1692]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Grand Alliance, War of the, 1689-1697.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:151808:1" rendition="simple:additions"/>
+            <head>Declaration of the Comte de Tourville Commandant his moſt Chriſtian M<hi rend="sup">ties</hi> fleet.</head>
+            <head type="sub">Tranſlated from the French Original.</head>
+            <p>THe Engliſh poſſibly may be ſenſible, novv the French Fleet is upon their Coaſts, hovv much they haue been deluded theſe tvvo years by falſe notions, induſtriouſly impos'd upon them of the vveakneſſ of France, and ſtrength of the Allies. They may perceiue that thoſe, vvho by ſubverting the Lavvs of the Government, and diſpoſſeſſing the rightfull King, have dravvn ſo povverfull an Enemy upon them, haue alſo brought them ſo lovv, that they are not able, even vvith the help of the Dutch, to maintain the Dominion of their ovvn Sea, nor preſerve their trade, &amp; themſelves from vtter ruine. The People, inſtead of that full enjoyment of their Liberties &amp; Properties. vvhich they promis'd to thmſelves from their nevv Maſter, have never been more oppreſs'd vvith Taxes, &amp; the vexations of Arbitrary procedings, &amp; vvith all thoſe miſchief, the bare apprehenſion vvher of has hurried them into their preſent extremities.</p>
+            <p>The Uſurper at firſt extorted great ſums from a Parliament abonding in Preſ<g ref="char:EOLhyphen"/>byterians, by giving up to them the Religion Eſtablisht by Lavv. He has ſqueez'd more out of this laſt Church-of-England Parliament, by ſacrificing the Presby<g ref="char:EOLhyphen"/>terians to them: all the vvhile equally fleecing both. Theſe aids vvere more than needed tho ſecure the Quiet an Trade of the Kingdome, both at home &amp; abroad, if they had been applied that vvay, &amp; not diverted to ſecret &amp; infini<g ref="char:EOLhyphen"/>tely expenceful courſes to ſtr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngthen himſelf by foreign Forces, alvvays ſuſ<g ref="char:EOLhyphen"/>picious, and alvvays fatal to the Nation. Parliaments haue been already tvvice hindred from taking an account of this Money, leaſt their Eyes ſhould be open'd, and the deſign of their total oppreſſion expos'd to their clear vievv. That oppreſ<g ref="char:EOLhyphen"/>ſion vvould haue been eaſy enough, if the Uſurper had not met vvith ſuch an Enemy as the King of France. But it vvould be more eaſy, if the Nation de<g ref="char:EOLhyphen"/>priv'd of trade; drain'd of Money an divided by the animoſity of tvvo Parties, both fomented by the Uſurper, vvith his countenancing novv the one, and novv the other, become a defenceleſſ looker on, vvhile the Authority of the Lavvs is ſubjected to the foreign force, vvith vvhich he ſeeks to fill the Kingdom.</p>
+            <p>His vveakness vvill oblige him to go on yet a vvhile in overreaching the En<g ref="char:EOLhyphen"/>glish, and perſuading them his Moſt Chriſtian Majeſty arms ſo ſtrongly, only to purſue the pretences vvith vvhich he amus'd them at firſt, to driue them into utter ruine, by engaging them to maintain to the utmoſt a quarrel vvhich is his ouvn, not theirs. In the mean time the French come not againſt the English but againſt an Uſurper, vvho has engag'd them into à Revolt equally con<g ref="char:EOLhyphen"/>trary to the Doctrine of the Church of England, an the Lavvs of the King<g ref="char:EOLhyphen"/>dom; and on vvhich he could put no better colour than the votes of men con<g ref="char:EOLhyphen"/>ven'd vvithout Legal Authority: in a vvord, vvho actually has brought more miſchief upon them in eighteen months, than an Enemy could haue don in a long vvar.</p>
+            <p>There are many vvho preſerve a ſence of their fidelity: imports to vnite, and aſſure themſelves His moſt Chriſtian Majeſty h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s no deſign to Invade the En<g ref="char:EOLhyphen"/>glish Nation, nor take advantage of their diſorders for his particular ends. He has preſerv'd their Lavvful Souereign for them, and the Heir apparent of the Crovvn, from vvhom they may hope for quiet &amp; ſecurity, vvhich they can never expect vvhile foreign and uſurping hands are, &amp; alvvays vvil be ſnatching
+<pb facs="tcp:151808:2" rendition="simple:additions"/>the Crovvn. He has furnish'd His Majeſty of great Brittain vvith means to keep himſelf up in Ireland, &amp; to prevent the Uſurper from ruining them utterly by the eaſiness vvith vvhich they put into his hands the opportunity to enſlaue them. He is in a condition to cross all his deſigns by ſending nevv ſuccours to His Majeſty of Great Britain, and cutting off the means of ſubſiſting from the Ene<g ref="char:EOLhyphen"/>mys His conduct is demonſtration that he aims at nothing but the Reſtoration of a Prince his Ally, and never dream of deſtroying a Kingdom, vvhich he ma<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es it his buſiness to preſerve to him. All then vvho loue their King, their Countrey, their Religion, their Lavvs, &amp; the good of the Kingdom, ought to be ſenſible that they cannot run themſelves into any danger ſo great, as being at the mercy of the Prince of Orange, if orce he be out of fear of His moſt Chriſtian M<hi rend="sup">ties</hi> Arms, &amp; get the Irish thorn out of his foot; and that the French far from Enemies, are truly the Defenders of their Liberty.</p>
+            <p>It is therefore declar'd that as on the one ſide His M.<hi rend="sup">ties</hi> Fleet has orders to fall upon the enemies and rebels of his M.<hi rend="sup">ty</hi> of England vvherever they ſhall be found: ſo on the other that all vvho vvill return to their duty, &amp; recogniſe their ovvn King, shall not be look'd upon as enemies: that on the contrary they shall meet vvith all poſſible Kindness &amp; ſuccour for themſelves as vvell as all other his good ſubjets: that no hoſtility shall be exercis'd againſt the Perſons, or Places vvhich vvill return to his obedience. That vve shall confide in all vvho shall come authoris'd by him, &amp; joyn vvith them in all expedient<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> proper to avoid shedding the blood of his People, and the other miſeries of vvar. And that vve shall make it effectually appear, that as vve act according to the intentions of a Prince vvhoſe goodneſſe tovvards them had no bounds, and the vvant of vvhoſe mild Government has been ſo often lamented, vve have no deſign but againſt R<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>lli<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> vve shall manage vvith conſi<g ref="char:EOLhyphen"/>deration and tenderneſſe even to the Rebels themſelves, if by a ſpeedy ſub<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion they vvill prevent the punishment vvhich they have deſerved. They may farther be aſſur'd, that regard shall be had to their ſervice vvho shall become examples to others, &amp; revvards procur'd for them, ſuch as their fidelity can ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ect. And vve hope, that thoſe vvho mas have been ſurpris'd by paſſion &amp; the artifices of enemies to their quiet, vvill open their eyes, ac<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>novvledge the ſin erity of our intentions, thank France for preſerving ſo good a Maſter for them, &amp; become ſenſible, that as they cannot hope for any end of their misfortunes and diviſions but by his return, they can as little expect their Trade again, as long as it depends on Allies ſo much intereſted as the Hollanders, vvho in less than a year of their cloſe union, have don them more harm, than in many years of open vvar.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
